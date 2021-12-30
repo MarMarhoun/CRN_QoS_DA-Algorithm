@@ -4,5 +4,5 @@ The cognitive radio technology (CR) is an emerging technology used to solve the 
 
 **Key words:** Cognitive radio, Metaheuristic, QoS, Dragonfly Algorithm, GA, SA.
 
-> You can reach the manuscript in the [ResearchGate repository](https://www.researchgate.net/publication/339167527_Quality_of_service_in_cognitive_radio_networks_Application_of_the_DragonFly_algorithm_and_Comparative_Analysis_French.) 
+> You can reach the full manuscript (in French) in the [ResearchGate repository](https://www.researchgate.net/publication/339167527_Quality_of_service_in_cognitive_radio_networks_Application_of_the_DragonFly_algorithm_and_Comparative_Analysis_French.) 
 
